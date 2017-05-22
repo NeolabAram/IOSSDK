@@ -7,6 +7,6 @@ s.homepage = 'https://github.com/NeolabAram/IOSSDK'
 s.author   = { 'NeolabAram' => 'NeolabAram/IOSSDK' }
 s.source   = { :git => 'https://github.com/NeolabAram/IOSSDK.git', :tag => s.version }
 s.ios.deployment_target = '8.0'
-s.source_files = 'NISDK/*'
+s.source_files = 'NISDK/**/*'
 s.requires_arc = true
 end
