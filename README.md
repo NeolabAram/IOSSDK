@@ -1,1 +1,3 @@
 # IOSSDK
+
+For Cocoapod uploading
